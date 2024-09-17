@@ -1,0 +1,67 @@
+/* fonts */
+export const FontFamily = {
+  sFProText: "SF Pro Text",
+  interSemiBold: "Inter-SemiBold",
+  interRegular: "Inter-Regular",
+  bodyMediumRegular: "SF Pro Display",
+  interMedium: "Inter-Medium",
+  interBold: "Inter-Bold",
+  interThin: "Inter-Thin",
+  montserratBold: "Montserrat-Bold",
+};
+/* font sizes */
+export const FontSize = {
+  bodyMediumRegular_size: 14,
+  size_3xl: 22,
+  size_xs: 12,
+  size_lg: 18,
+  size_base: 16,
+  size_5xs: 8,
+  size_4xs: 9,
+  size_3xs: 10,
+  size_13xl: 32,
+  size_xl: 20,
+  size_5xl: 24,
+  size_3xl_5: 23,
+  size_mini: 15,
+  size_6xl: 25,
+  size_smi: 13,
+};
+/* Colors */
+export const Color = {
+  otherColorsWhite: "#fff",
+  colorGray_100: "#fcfcfe",
+  greyscaleGrey900: "#101623",
+  colorGray_200: "#090a0a",
+  colorGray_300: "#030319",
+  colorDarkgray_100: "#adadad",
+  greyscaleGrey400: "#a0a8b0",
+  colorAzure: "#e8f3f1",
+  colorDarkcyan: "#199a8e",
+  colorDarkslategray_100: "#3b4453",
+  colorDarkslategray_200: "#232b43",
+  colorWhitesmoke: "#f9fafb",
+  colorGainsboro_100: "#e5e7eb",
+  colorLightgray: "#d1d5db",
+  colorSlategray: "#707784",
+  primaryBlue500: "#4f81ff",
+  colorTomato: "#ff5c5c",
+};
+/* border radiuses */
+export const Border = {
+  br_11xs_3: 1,
+  br_10xs_7: 3,
+  br_5xl: 24,
+  br_3xs: 10,
+  br_10xs_2: 2,
+  br_xs_1: 11,
+  br_42xl: 61,
+  br_13xl: 32,
+  br_8xs_6: 5,
+  br_81xl: 100,
+  br_base: 16,
+  br_8xs: 5,
+  br_10xl: 29,
+  br_5xs: 8,
+  br_37xl: 56,
+};
